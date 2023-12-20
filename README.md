@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **UI Automation and Automated test Case generation**
 
-- 🤝 I’m looking for help with **"Bangla Text Summarization", Using State-of-the-art Transformer Model**
+- 🤝 I’m looking for help with **"Bangla Text Summarization Project", Using Generative AI with LLMs**
 
 - 💬 Ask me about **Artificial Intelligence, and NLP**
 
