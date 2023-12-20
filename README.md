@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)](https://mjahid183e.io)
 <h1 align="center">Hi, I'm Md. Jahidul Islam</h1>
 <h3 align="center">I'm passionate about Artificial Intelligence,  Generative AI with LLMS and RLHF, and NLP with Deep Learning</h3>
 
