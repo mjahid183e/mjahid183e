@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md. Jahidul Islam</h1>
-<h3 align="center">I'm passionate about Artificial Intelligence,  Generative AI with LLMS and RLHF, and NLP with Deep Learning</h3>
+<h3 align="center">I'm passionate about Artificial Intelligence, Generative AI with LLMS and RLHF, NLP and Deep Learning</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.codingdojo.com/blog/wp-content/uploads/coding.gif">
 
